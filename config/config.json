@@ -1,0 +1,8 @@
+{
+  "kafkaServerAddr": "127.0.0.1:9092",
+  "logFileName": "./my.log",
+  "test":1,
+  "etcdAddr":"127.0.0.1:2379",
+  "etcdTimeout": 5,
+  "etcdAgentKey": "/logagent/%s/collect_config"
+}

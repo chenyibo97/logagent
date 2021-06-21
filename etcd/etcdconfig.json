@@ -1,0 +1,4 @@
+[
+  {"path":"d:/log/nginx.log","topic":"web_log"},
+  {"path":"d:/log/redis.log","topic":"redis_log"}
+]
